@@ -1,0 +1,1 @@
+exports.RemoteDbUrl = 'mongodb://192.168.141.130:27017/shopping';
